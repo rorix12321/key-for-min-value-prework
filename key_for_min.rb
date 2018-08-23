@@ -8,3 +8,4 @@ if value > current
   current = value
 end
 end
+end
