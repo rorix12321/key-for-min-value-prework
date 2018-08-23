@@ -8,5 +8,4 @@ if value > current
   current = value
 end
 end
-return current
 end
