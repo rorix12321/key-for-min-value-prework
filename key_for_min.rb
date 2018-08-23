@@ -7,5 +7,4 @@ current = 0
 if value > current
   current = value
 end
-return current
 end
