@@ -8,5 +8,4 @@ def key_for_min_value(name_hash)
         current = value
       end
     end
-    return current
 end
